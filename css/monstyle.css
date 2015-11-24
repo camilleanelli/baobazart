@@ -1,0 +1,7 @@
+.card-cours {
+  background-image: linear-gradient(to right bottom, #F5D76E 0%, #ffffff 80%);
+  box-shadow: 3px 3px 5px grey;
+  border-radius: 3px;
+  margin-top: 100px;
+
+}
