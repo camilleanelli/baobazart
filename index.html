@@ -19,7 +19,7 @@
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
-
+    <link rel="stylesheet" href="css/animations.css">
     <!-- Plugin CSS -->
     <link rel="stylesheet" href="css/animate.min.css" type="text/css">
 
@@ -99,15 +99,15 @@
             </div>
             <div class="col-md-8 col-md-offset-2 text-center">
               <div class="col-md-4">
-                <a href="cours.html"><img src="img/painter.png" style="width:100px;height:100px"></a>
+                <a href="cours.html" class="cours"><img src="img/painter.png" style="width:100px;height:100px"></a>
                 <p>A propos des cours</p>
               </div>
               <div class="col-md-4">
-                <a href="planning.html"><img src="img/planning.png" style="width:100px;height:100px"></a>
+                <a href="planning.html" class="planning"><img src="img/planning.png" style="width:100px;height:100px"></a>
                 <p>Consulter le planning de cours actuel</p>
               </div>
               <div class="col-md-4">
-                <a href="price.html"><img src="img/price.png" style="width:100px;height:100px"></a>
+                <a href="price.html" class="price"><img src="img/price.png" style="width:100px;height:100px"></a>
                 <p>Les tarifs</p>
               </div>
             </div>
@@ -230,6 +230,11 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/creative.js"></script>
+    <script>
+    	$('.cours,.planning,.price').mouseenter(function() {
+    		$(this).addClass("pulse");
+    	});
+    </script>
 
 </body>
 
