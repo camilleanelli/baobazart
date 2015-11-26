@@ -19,3 +19,15 @@
 .shadow {
   text-shadow: 2px 2px 5px black;
 }
+
+.name-cat {
+  font-size: 22px;
+  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+  color: white;
+
+}
+
+.name-cat:hover {
+  text-decoration: none;
+  color: white;
+}
