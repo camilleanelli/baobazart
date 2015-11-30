@@ -1,7 +1,7 @@
 .card-cours {
-  background-image: linear-gradient(to right bottom, #F5D76E 0%, #ffffff 80%);
+  background-color: #ECECEC;
   box-shadow: 3px 3px 5px grey;
-  border-radius: 3px;
+  border-radius: 5px;
   margin-top: 100px;
 
 
@@ -54,4 +54,9 @@
   width: 100%;
   background-color: rgba(255, 255, 255, 0.5);
 
+}
+
+.padding-box {
+  padding: 30px;
+  margin-bottom: 30px;
 }
