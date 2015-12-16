@@ -36,6 +36,13 @@
   background-color: black;
 }
 
+.modal-title, .close {
+  color: white;
+}
+
+.close {
+  color: white;
+}
 
 .background-pages {
   z-index: 1;
@@ -59,5 +66,5 @@
 #contact {
   background-color: #6C7A89;
   color: white;
-  
+
 }
