@@ -179,7 +179,8 @@ header {
     text-align: center;
     color: #fff;
     background-image: url(../img/baobab.jpg);
-    background-position: center;
+    /*background-position: center;*/
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
