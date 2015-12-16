@@ -44,6 +44,12 @@
   color: white;
 }
 
+.fb-share-button {
+  width: 100px;
+  height: 100px;
+  
+}
+
 .background-pages {
   z-index: 1;
   position: absolute;
