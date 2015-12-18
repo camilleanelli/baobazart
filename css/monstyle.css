@@ -43,6 +43,18 @@
   border: 3px solid black;
 }
 
+.a1 {
+  height: 500px;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1448884130/nouvelle_ogaamv.jpg");
+  background-size: cover;
+}
+
+.a2 {
+  height: 500px;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1448884119/003_h54rak.jpg");
+  background-size: cover;
+}
+
 .paint1 {
   height: 100%;
   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444406/P1090209_ikalix.jpg");
