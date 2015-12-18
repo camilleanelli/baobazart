@@ -8,7 +8,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
     <meta name="description" content="cours de peinture et de dessin asnières sur seine">
-    <meta name="author" content="">
+    <meta name="author" content="camille anelli">
+    <link rel="canonical" href="http://www.lebaobazart.fr/">
+
 
     <meta property="og:title" content="Cours de peinture et de dessin - atelier Baobaz'art" />
     <meta property="og:type" content="informations" />
@@ -281,7 +283,12 @@
     <script src="js/wow.min.js"></script>
 
     <!-- Custom Theme JavaScript -->
-    <script src="js/creative.js"></script>
+    <script src="js/creative.js">
+    if ( window.self === window.top ) {
+    // console.log("not in a frame")
+       window.location.href = 'http://www.lebaobazart.fr';
+    }
+    </script>
 
     <script>
     	$('.cours,.planning,.price').mouseenter(function() {
