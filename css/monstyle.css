@@ -36,6 +36,36 @@
   background-color: black;
 }
 
+.modal-pictures {
+  height: 500px;
+}
+.modal-border {
+  border: 3px solid black;
+}
+
+.paint1 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444406/P1090209_ikalix.jpg");
+  background-size: cover;
+}
+
+.paint2 {
+  height: 100%;
+  background-image: url("https://res.cloudinary.com/dp8fx5icp/image/upload/v1450444405/2015-12-16_12.10.51_h9viwh.jpg");
+  background-size: cover;
+}
+
+.paint3 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444404/P1090130_wkihl9.jpg");
+  background-size: cover;
+}
+
+.paint4 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444404/IMG_3538_boruxp.jpg");
+  background-size: cover;
+}
 .modal-title, .close {
   color: white;
 }
