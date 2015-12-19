@@ -37,7 +37,7 @@
 }
 
 .modal-pictures {
-  height: 500px;
+  height: 350px;
 }
 .modal-border {
   border: 3px solid black;
@@ -57,51 +57,51 @@
 
 .paint1 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444406/P1090209_ikalix.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_350/v1450513312/baobazart/P1090209.jpg");
   background-size: cover;
 }
 
 .paint2 {
   height: 100%;
-  background-image: url("https://res.cloudinary.com/dp8fx5icp/image/upload/v1450444405/2015-12-16_12.10.51_h9viwh.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513312/baobazart/2015-12-16_12.10.51.jpg");
   background-size: cover;
 }
 
 .paint3 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444404/P1090130_wkihl9.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513312/baobazart/P1090130.jpg");
   background-size: cover;
 }
 
 .paint4 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444404/IMG_3538_boruxp.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513312/baobazart/IMG_3538.jpg");
   background-size: cover;
 }
 
 .p1 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444406/2015-12-16_12.17.58_aamhn0.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513312/baobazart/2015-12-16_12.17.58.jpg");
   background-size: cover;
 }
 
 .p2 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444410/P1090213_wjcc2o.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513313/baobazart/P1090213.jpg");
   background-size: cover;
 
 }
 
 .p3 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444404/P1090132_f0le35.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513312/baobazart/20151216_190859_1.jpg");
   background-size: cover;
 
 }
 
 .p4 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450444409/P1090226_1_nz90dw.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513313/baobazart/P1090132.jpg");
   background-size: cover;
  }
 .modal-title, .close {
