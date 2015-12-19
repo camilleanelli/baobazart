@@ -94,7 +94,7 @@
 
 .p3 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513312/baobazart/20151216_190859_1.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513313/baobazart/P1090227_1.jpg");
   background-size: cover;
 
 }
@@ -104,6 +104,19 @@
   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513313/baobazart/P1090132.jpg");
   background-size: cover;
  }
+
+ .p5 {
+   height: 100%;
+   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513312/baobazart/20151216_190859_1.jpg");
+   background-size: cover;
+ }
+
+ .p6 {
+   height: 100%;
+   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513313/baobazart/P1090223.jpg");
+   background-size: cover;
+ }
+
 .modal-title, .close {
   color: white;
 }
