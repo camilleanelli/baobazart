@@ -151,5 +151,36 @@
 #contact {
   background-color: #6C7A89;
   color: white;
+}
 
+.fa-facebook-square:hover {
+  font-size: 40px;
+}
+
+.footer {
+  height: 100px;
+  width: auto;
+  background-color: #6C7A89;
+  font-family: sans-serif;
+  color: white;
+}
+
+.footer ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.footer ul li a {
+  text-decoration: none;
+  color: white;
+}
+
+.footer ul li a:hover {
+  color: #f05f40;
+}
+
+.mentions {
+  background-color: white;
+  color: grey;
 }
