@@ -153,6 +153,9 @@
   color: white;
 }
 
+#contact a {
+  color: white;
+}
 .fa-facebook-square:hover {
   font-size: 40px;
 }
