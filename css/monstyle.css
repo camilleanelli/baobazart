@@ -44,20 +44,44 @@
 }
 
 .a1 {
-  height: 500px;
+  height: 100%;
   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1448884130/nouvelle_ogaamv.jpg");
   background-size: cover;
 }
 
 .a2 {
-  height: 500px;
+  height: 100%;
   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1448884119/003_h54rak.jpg");
+  background-size: cover;
+}
+
+.a3 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090426.jpg");
+  background-size: cover;
+}
+
+.a4 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090427.jpg");
+  background-size: cover;
+}
+
+.a5 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514453/baobazart/P1090419.jpg");
+  background-size: cover;
+}
+
+.a6 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514436/baobazart/P1090206_1.jpg");
   background-size: cover;
 }
 
 .paint1 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_350/v1450513312/baobazart/P1090209.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090262.jpg");
   background-size: cover;
 }
 
@@ -79,6 +103,37 @@
   background-size: cover;
 }
 
+.paint5 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_600/v1457514346/baobazart/Aquarelle_Maryline.jpg");
+  background-size: cover;
+}
+
+.paint6 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514421/baobazart/fenetre.jpg");
+  background-size: cover;
+}
+
+.paint7 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514405/baobazart/P1090129.jpg");
+  background-size: cover;
+}
+
+.paint8 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090479.jpg");
+  background-size: cover;
+}
+
+.paint9 {
+  height: 100%;
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090480.jpg");
+  background-size: cover;
+}
+
+
 .p1 {
   height: 100%;
   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513312/baobazart/2015-12-16_12.17.58.jpg");
@@ -94,7 +149,7 @@
 
 .p3 {
   height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513313/baobazart/P1090227_1.jpg");
+  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514482/baobazart/pastel_Marion.jpg");
   background-size: cover;
 
 }
@@ -107,13 +162,31 @@
 
  .p5 {
    height: 100%;
-   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513312/baobazart/20151216_190859_1.jpg");
+   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090422.jpg");
    background-size: cover;
  }
 
  .p6 {
    height: 100%;
-   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513313/baobazart/P1090223.jpg");
+   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090256.jpg");
+   background-size: cover;
+ }
+
+ .p7 {
+   height: 100%;
+   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090211.jpg");
+   background-size: cover;
+ }
+
+ .p8 {
+   height: 100%;
+   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090212.jpg");
+   background-size: cover;
+ }
+
+ .p9 {
+   height: 100%;
+   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090477.jpg");
    background-size: cover;
  }
 
