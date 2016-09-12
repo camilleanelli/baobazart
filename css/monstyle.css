@@ -23,9 +23,6 @@
   font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
-/*.shadow {
-  text-shadow: 2px 2px 5px black;
-}*/
 
 .name-cat {
   font-size: 22px;
@@ -54,20 +51,27 @@
   background-color: #6C7A89;
 }
 
-
-#portfolio {
+#cours {
+  padding-top: 30px;
   background-color: #f7f7f7;
+  color: #444;
+  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
 
-.title-nav {
-  font-size: 16px;
-  font-weight: 700;
+#portfolio {
+
+}
+
+/*.title-nav {
+
   padding-top: 15px;
   padding-bottom: 15px;
 
-}
+}*/
 
-.title-nav a {
+/*.title-nav a {
+  font-size: 16px;
+  font-weight: 700;
   color: #444;
   line-height: 2;
 
@@ -81,7 +85,7 @@
   .title-nav a {
     color: #F7CA18;
   }
-}
+}*/
 
 
 .modal-title, .close {
@@ -102,13 +106,15 @@
 }
 
 #contact {
-  background-color: #fff;
+  background-color: #f7f7f7;
   color: #444;
 }
 
 .fa-facebook-square:hover {
   font-size: 40px;
 }
+
+/*footer */
 
 .footer {
   height: 50px;
@@ -138,30 +144,10 @@
   color: grey;
 }
 
-.background-pages {
-  background-color: #6C7A89;
-}
 
-/* media queries */
+/*
+autres pages html */
 
-
-@media (min-width: 974px) {
-  .background-pages {
-    z-index: 1;
-    position: absolute;
-    height: 100vh;
-    width:100%;
-    background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_1000/v1457514405/baobazart/P1090129.jpg");
-    background-size: cover;
-
-  }
-
-  .filter {
-    z-index: 2;
-    position: absolute;
-    height: 100%;
-    width: 100%;
-    background-color: rgba(255, 255, 255, 0.3);
-
-  }
+#static-pages {
+  background: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,e_grayscale,w_1500/v1450513312/baobazart/IMG_3538.jpg");
 }
