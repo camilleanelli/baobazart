@@ -12,13 +12,20 @@
 }
 
 .next {
-  color:#f05f40;
+  color:#F7CA18;
   margin-top: 200px;
 }
 
-.shadow {
-  text-shadow: 2px 2px 5px black;
+.title-header {
+  font-size: 100px;
+  color: white;
+  font-weight: bold;
+  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
+
+/*.shadow {
+  text-shadow: 2px 2px 5px black;
+}*/
 
 .name-cat {
   font-size: 22px;
@@ -33,163 +40,49 @@
 }
 
 .modal-content {
-  background-color: black;
+  background-color: white;
 }
 
 .modal-pictures {
   height: 350px;
 }
 .modal-border {
-  border: 3px solid black;
+  border: 3px solid white;
+}
+
+.dessin-page {
+  background-color: #6C7A89;
 }
 
 
-.a1 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1448884130/nouvelle_ogaamv.jpg");
-  background-size: cover;
+#portfolio {
+  background-color: #f7f7f7;
 }
 
-.a2 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1448884119/003_h54rak.jpg");
-  background-size: cover;
-}
-
-.a3 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090426.jpg");
-  background-size: cover;
-}
-
-.a4 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090427.jpg");
-  background-size: cover;
-}
-
-.a5 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514453/baobazart/P1090419.jpg");
-  background-size: cover;
-}
-
-.a6 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514436/baobazart/P1090206_1.jpg");
-  background-size: cover;
-}
-
-.paint1 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090262.jpg");
-  background-size: cover;
-}
-
-.paint2 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513312/baobazart/2015-12-16_12.10.51.jpg");
-  background-size: cover;
-}
-
-.paint3 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513312/baobazart/P1090130.jpg");
-  background-size: cover;
-}
-
-.paint4 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_400/v1450513312/baobazart/IMG_3538.jpg");
-  background-size: cover;
-}
-
-.paint5 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,w_600/v1457514346/baobazart/Aquarelle_Maryline.jpg");
-  background-size: cover;
-}
-
-.paint6 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514421/baobazart/fenetre.jpg");
-  background-size: cover;
-}
-
-.paint7 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514405/baobazart/P1090129.jpg");
-  background-size: cover;
-}
-
-.paint8 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090479.jpg");
-  background-size: cover;
-}
-
-.paint9 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090480.jpg");
-  background-size: cover;
-}
-
-
-.p1 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513312/baobazart/2015-12-16_12.17.58.jpg");
-  background-size: cover;
-}
-
-.p2 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513313/baobazart/P1090213.jpg");
-  background-size: cover;
+.title-nav {
+  font-size: 16px;
+  font-weight: 700;
+  padding-top: 15px;
+  padding-bottom: 15px;
 
 }
 
-.p3 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514482/baobazart/pastel_Marion.jpg");
-  background-size: cover;
+.title-nav a {
+  color: #444;
+  line-height: 2;
 
 }
+.title-nav a:hover {
+  text-decoration: none;
+  color: #F7CA18;
+}
 
-.p4 {
-  height: 100%;
-  background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1450513313/baobazart/P1090132.jpg");
-  background-size: cover;
- }
+@media (max-width: 741px) {
+  .title-nav a {
+    color: #F7CA18;
+  }
+}
 
- .p5 {
-   height: 100%;
-   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090422.jpg");
-   background-size: cover;
- }
-
- .p6 {
-   height: 100%;
-   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090256.jpg");
-   background-size: cover;
- }
-
- .p7 {
-   height: 100%;
-   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090211.jpg");
-   background-size: cover;
- }
-
- .p8 {
-   height: 100%;
-   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514452/baobazart/P1090212.jpg");
-   background-size: cover;
- }
-
- .p9 {
-   height: 100%;
-   background-image: url("http://res.cloudinary.com/dp8fx5icp/image/upload/v1457514470/baobazart/P1090477.jpg");
-   background-size: cover;
- }
 
 .modal-title, .close {
   color: white;
@@ -199,30 +92,30 @@
   color: white;
 }
 
-.facebook-link {
-  color: white;
+#creation {
+  color: #444;
 }
 
-
+#about {
+  background-color: #f7f7f7;
+  color: #444;
+}
 
 #contact {
-  background-color: #6C7A89;
-  color: white;
+  background-color: #fff;
+  color: #444;
 }
 
-#contact a {
-  color: white;
-}
 .fa-facebook-square:hover {
   font-size: 40px;
 }
 
 .footer {
-  height: 100px;
+  height: 50px;
   width: auto;
-  background-color: #6C7A89;
+  background-color: #f7f7f7;
   font-family: sans-serif;
-  color: white;
+  color: #444;
 }
 
 .footer ul {
@@ -233,11 +126,11 @@
 
 .footer ul li a {
   text-decoration: none;
-  color: white;
+  color: #444;
 }
 
 .footer ul li a:hover {
-  color: #f05f40;
+  color: #F7CA18;
 }
 
 .mentions {
