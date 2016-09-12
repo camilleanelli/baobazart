@@ -36,6 +36,13 @@
   color: white;
 }
 
+.bx-wrapper img {
+  margin: 0 auto;
+}
+.bxslider {
+  left: -50px;
+}
+
 .modal-content {
   background-color: white;
 }
