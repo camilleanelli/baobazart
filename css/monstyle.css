@@ -22,6 +22,10 @@
   font-weight: bold;
   font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
 }
+.size-icon {
+  width: 60px;
+  height: 60px;
+}
 
 
 .name-cat {
@@ -66,7 +70,13 @@
 }
 
 #portfolio {
+  padding-top: 30px;
+}
 
+.thank-you {
+  color: #444;
+  font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+  font-size: 30px;
 }
 
 /*.title-nav {
