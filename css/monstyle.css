@@ -1,3 +1,5 @@
+
+
 .card-cours {
   background-color: #EEEEEE;
   box-shadow: 1px 1px 3px grey;
@@ -17,7 +19,8 @@
 }
 
 .title-header {
-  font-size: 100px;
+  font-size: 80px;
+  text-transform: uppercase;
   color: white;
   font-weight: bold;
   font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
