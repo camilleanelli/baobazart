@@ -1,8 +1,7 @@
 
 
 .card-cours {
-  background-color: #EEEEEE;
-  box-shadow: 1px 1px 3px grey;
+  background-color: white;
   border-radius: 5px;
   margin-top: 100px;
   padding: 30px;
@@ -82,6 +81,15 @@
   font-size: 30px;
 }
 
+p .mailto {
+  color: #444;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.mailto:hover {
+  color: #F7CA18;
+}
 /*.title-nav {
 
   padding-top: 15px;
@@ -169,5 +177,6 @@
 autres pages html */
 
 #static-pages {
-  background: url("http://res.cloudinary.com/dp8fx5icp/image/upload/c_scale,e_grayscale,w_1500/v1450513312/baobazart/IMG_3538.jpg");
+  background-color: rgba(245, 215, 110, 0.7);
+
 }

@@ -388,7 +388,7 @@ fieldset[disabled] .btn-default.active {
     /*border: 2px solid #F7CA18 !important;*/
     color: #fff;
     background-color: #F7CA18;
-    opacity: 0.7;
+    opacity: 0.9;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
